@@ -1,0 +1,18 @@
+#root {
+  justify-content: center;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.App input {
+  margin: 20px;
+  padding: 10px 20px;
+  border: 2px solid gray;
+  background-color: white;
+  transition: 0.3s;
+}
